@@ -1,0 +1,15 @@
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/Seminar_01.csproj.AssemblyReference.cache
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/Seminar_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/Seminar_01.AssemblyInfoInputs.cache
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/Seminar_01.AssemblyInfo.cs
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/Seminar_01.csproj.CoreCompileInputs.cache
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/bin/Debug/net6.0/Seminar_01
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/bin/Debug/net6.0/Seminar_01.deps.json
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/bin/Debug/net6.0/Seminar_01.runtimeconfig.json
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/bin/Debug/net6.0/Seminar_01.dll
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/bin/Debug/net6.0/Seminar_01.pdb
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/Seminar_01.dll
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/refint/Seminar_01.dll
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/Seminar_01.pdb
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/Seminar_01.genruntimeconfig.cache
+/Users/bainyshoney/Desktop/Разработка ИТ/C#Homeworks/Seminar_01/obj/Debug/net6.0/ref/Seminar_01.dll
