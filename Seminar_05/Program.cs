@@ -89,7 +89,7 @@ Console.WriteLine($"Sum of not even elements is { SumOfNotEvenPositionElements(a
 // Задача 38: Задайте массив вещественных чисел. 
 // Найдите разницу между максимальным и минимальным элементов массива.
 // [3 7 22 2 78] -> 76
-
+/*
 double[] CreateRandomArray(int c, double lowValue, double highValue)
 {
     double[] array = new double[c], array1 = new double[c], array2 = new double[c];
@@ -142,3 +142,4 @@ int round = Convert.ToInt32(Console.ReadLine());
 double[] array = CreateRandomArray(count, lowValue, highValue);
 ShowArray(array, round);
 Console.WriteLine($"Different between min amd max elements is {SumMaxAndMinElementsOfArray(array, round)}");
+*/
