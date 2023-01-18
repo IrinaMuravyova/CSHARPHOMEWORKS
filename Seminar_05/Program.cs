@@ -89,7 +89,7 @@ Console.WriteLine($"Sum of not even elements is { SumOfNotEvenPositionElements(a
 // Задача 38: Задайте массив вещественных чисел. 
 // Найдите разницу между максимальным и минимальным элементов массива.
 // [3 7 22 2 78] -> 76
-/*
+
 double[] CreateRandomArray(int c, double lowValue, double highValue)
 {
     double[] array = new double[c], array1 = new double[c], array2 = new double[c];
@@ -122,7 +122,11 @@ double SumMaxAndMinElementsOfArray(double[] arr, int round)
         if (arr[i]>maxElement) maxElement = arr[i];
         if (arr[i]<minElement) minElement = arr[i];
     }
-    different = Math.Round(maxElement - minElement, round);
+    if (minElement>0 && maxElement>0) 
+        different = Math.Round(maxElement - minElement, round); //если и макс и мин положительные
+        else if (minElement<0 && maxElement<0) different = Math.Round(maxElement - minElement, round); //если макс и мин отрицательные вывожу разницу по модулю
+            else different = Math.Round(maxElement + minElement, round); // если минимальное отрицательное, а максимальное положительное
+            // четвертый случай не описываю(мин>0, макс<0s), т.к. по алгоритму определения максимального и минимального, он невозможен
     return different;
 }
 
@@ -138,4 +142,3 @@ int round = Convert.ToInt32(Console.ReadLine());
 double[] array = CreateRandomArray(count, lowValue, highValue);
 ShowArray(array, round);
 Console.WriteLine($"Different between min amd max elements is {SumMaxAndMinElementsOfArray(array, round)}");
-*/
