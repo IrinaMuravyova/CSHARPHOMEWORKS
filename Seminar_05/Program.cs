@@ -124,9 +124,6 @@ double SumMaxAndMinElementsOfArray(double[] arr, int round)
     }
     if (minElement>0 && maxElement>0) 
         different = Math.Round(maxElement - minElement, round); //если и макс и мин положительные
-        else if (minElement<0 && maxElement<0) different = Math.Round(maxElement - minElement, round); //если макс и мин отрицательные вывожу разницу по модулю
-            else different = Math.Round(maxElement + minElement, round); // если минимальное отрицательное, а максимальное положительное
-            // четвертый случай не описываю(мин>0, макс<0s), т.к. по алгоритму определения максимального и минимального, он невозможен
     return different;
 }
 
